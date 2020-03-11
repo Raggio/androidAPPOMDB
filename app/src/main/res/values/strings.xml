@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">omdb</string>
+    <string name="url_base">http://10.0.2.2:8080/peliculados/</string>
+    <string name="googlauth">Entrar con Google</string>
+    <string name="escribe">Escribe tu búsqueda...</string>
+    <string name="buscar">Buscar</string>
+    <string name="pg">Películas guardadas</string>
+    <string name="pp">Películas puntuadas</string>
+
+</resources>
